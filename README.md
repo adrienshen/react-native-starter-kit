@@ -48,6 +48,15 @@ The project is _super_ helpful to kick-start your next project, as it provides a
 
 ---
 
+## Todo changes
+
+- Convert JS to TS
+- Change ReactStrap to AntDesign
+- Integrate w. Firebase CF
+- See where React Hooks can be used
+
+---
+
 ## 📖 Docs
 
 - [Setup your own Firebase](/docs/firebase.md)
