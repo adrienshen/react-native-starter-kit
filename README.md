@@ -54,6 +54,7 @@ The project is _super_ helpful to kick-start your next project, as it provides a
 - Change ReactStrap to AntDesign
 - Integrate w. Firebase CF
 - See where React Hooks can be used
+- ESLint -> TSLint
 
 ---
 
